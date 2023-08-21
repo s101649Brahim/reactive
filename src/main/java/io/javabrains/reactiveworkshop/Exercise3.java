@@ -16,7 +16,7 @@ public class Exercise3 {
         System.out.println(list);
 
 
-        System.out.println("Press a key to end");
+        System.out.println("Press a key toq end");
         System.in.read();
     }
 
